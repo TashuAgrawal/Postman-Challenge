@@ -2878,5 +2878,5 @@
 (https://api.badgr.io/public/assertions/tlhRoueuRbaUqliVpG77vQ?identity__email=rajaditya0108%40gmail.com) | Informative and Insightful |
 |2768 | Renee Bethapudy | [22wh1a12a2@bvrithyderabad.edu.in](https://www.linkedin.com/in/renee-bethapudy-a31576259/) | [ Certificate link]
 (https://api.badgr.io/public/assertions/j89OwUFiQ86Snm-n6GiRrg?identity__email=22wh1a12a2%40bvrithyderabad.edu.in) | Awesome Course! |
-|2768 | Kashvi Chinta | [22wh1a12a9@bvrithyderabad.edu.in](https://www.linkedin.com/search/results/people/?firstName=Kashvi&lastName=Chinta&origin=SEO_PSERP&sid=hF-) | [ Certificate link]
-(https://api.badgr.io/public/assertions/zuHHSPCyQTK9Fzodmdwvyw?identity__email=22wh1a12a9%40bvrithyderabad.edu.in)|Awesome Course|
+|2769 | Tashu Agrawal | [tashuagrawal67@gmail.com]([(https://www.linkedin.com/in/tashu-agrawal-6a0110269?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]) | [ Certificate link ](
+https://api.badgr.io/public/assertions/llZjNJGdRp-vimOf7TRnHw?identity__email=tashuagrawal67%40gmail.com) | Learned something new |
